@@ -19,8 +19,9 @@ const SearchExercises = () => {
           border: 'none',
           borderRadius: '4px',
           width: {
-            lg: '1170px', xs: '350px'
-          }
+            lg: '1170px', xs: '350px'},
+          backgroundColor: '#FFF',
+          borderRadius: '40px'
         }}
         height="76px"
         value=""
@@ -28,6 +29,18 @@ const SearchExercises = () => {
         placeholder="Search Exercises"
         type="text"       
         />
+        <Button className="search-btn'
+        variant="contained
+       href='#exercises'
+        sx={{ backgroundColor: '#FF2625',
+        color: '#fff',
+        textTransform: 'none',
+        width: {lg: '175px', xs: '80px'},
+        fontSize: {lg: '20px' , xs: '14px'},
+        height: '56px',
+        padding: '10px' }}>
+      Search
+    </Button>
       </Box>
     </Stack>
   )

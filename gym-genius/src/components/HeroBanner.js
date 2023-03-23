@@ -14,9 +14,9 @@ const HeroBanner = () => {
         fontWeight="550" fontSize="25px">
         Fitness Club
       </Typography>
-      <Typography fontSize="60px" fontWeight={500}
+      <Typography fontSize="55px" fontWeight={500}
         lineHeight={1.5} mb={2}>
-        it's mind over matter
+        always mind over matter
       </Typography>
       <Button variant="contained"
         color='error' href='#exercises'
