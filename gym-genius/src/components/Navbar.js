@@ -29,7 +29,8 @@ const Navbar = () => {
           {textDecoration: 'none', color: '#3A1212'}}>Exercises</a>
       </Stack>
       </Stack>
-  )
+      )
 }
+
 
 export default Navbar
