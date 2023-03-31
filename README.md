@@ -99,7 +99,7 @@ Created by [
 ] 
 
 
-[Netlify](gym-genius.netlify.app)
+[Netlify](https://gym-genius.netlify.app/)
 
 <!-- Optional -->
 <!-- ## License -->
