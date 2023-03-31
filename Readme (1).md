@@ -41,7 +41,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+<img src='./src/assets/images/localhost_3004_ (1).png'>
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -66,11 +66,6 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
 
 
 
@@ -97,10 +92,10 @@ Room for improvement:
 
 ## Contact
 Created by [
-@ebheto 
-@STrojann
-@nav2010 Navjot kaur
-@Bunucci
+[@Seb](https://github.com/STrojann)
+[@ebheto](https://github.com/ebheto)
+[@Navjot](https://github.com/nav2010)
+[@Bunucci](https://github.com/Bunucci)
 ] 
 
 
